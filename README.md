@@ -1,5 +1,5 @@
-# Dynamic-Scrollspy v 0.0.6
-by Michael A Smith @psalmody
+# Dynamic-Scrollspy v 0.0.7
+by Vegard O. Johannssen (Thanks @psalmody)
 
 jQuery plugin to dynamically generate a `.nav` outline and setup Bootstrap scrollspy.
 
@@ -35,6 +35,7 @@ $('#somediv').DynamicScrollspy({
   offset: 100, //offset from viewport top for scrollspy
   ulClassNames: 'hidden-print', //add this class to top-most UL
   activeClass: '', //active class (besides .active) to add to LI
+  affix: true, //use affix?
   testing: false //if testing, append heading tagName and ID to each heading
 })
 ```
