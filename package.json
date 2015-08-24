@@ -1,6 +1,6 @@
 {
   "name": "dynamic-scrollspy",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "jQuery plugin to dynamically generate outline and setup Bootstrap scrollspy.",
   "main": "Gruntfile.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository":{
     "type":"git",
-    "url":"https://github.com/psalmody/dynamic-scrollspy"
+    "url":"https://github.com/vegardoj/dynamic-scrollspy"
   },
   "keywords": [
     "Bootstrap",
@@ -19,6 +19,9 @@
   ],
   "homepage":"https://github.com/psalmody/dynamic-scrollspy",
   "author": "Michael A Smith @psalmody",
+  "contributors": [
+    "Vegard O. Johannessen <vegardoj@gmail.com> (https://github.com/vegardoj)"
+  ],
   "license": {
       "type": "MIT License",
       "url": "https://github.com/psalmody/dynamic-scrollspy/blob/master/mit-license.md"
